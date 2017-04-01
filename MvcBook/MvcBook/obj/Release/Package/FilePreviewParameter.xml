@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="VictorEspinozaMvcBookTitlesProject" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\CECS\ 475\\Lab\ 7\ -\ Book\ App\\MvcBook\\MvcBook\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\CECS\ 475\\Lab\ 7\ -\ Book\ App\\MvcBook\\MvcBook\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="BookTitleDBContext-Web.config Connection String" description="" value="Data Source=tcp:victorespinozabookdb.database.windows.net,1433;Initial Catalog=VictorEspinozaBook_DB;User Id=book_dbadmin@victorespinozamoviedb;Password=Kanyewest1994!" tags="">
+    <parameterEntry kind="XmlFile" scope="E:\\CECS\ 475\\Lab\ 7\ -\ Book\ App\\MvcBook\\MvcBook\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BookTitleDBContext']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:victorespinozabookdb.database.windows.net,1433;Initial Catalog=VictorEspinozaBook_DB;User Id=book_dbadmin@victorespinozamoviedb;Password=Kanyewest1994!" tags="">
+    <parameterEntry kind="XmlFile" scope="E:\\CECS\ 475\\Lab\ 7\ -\ Book\ App\\MvcBook\\MvcBook\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

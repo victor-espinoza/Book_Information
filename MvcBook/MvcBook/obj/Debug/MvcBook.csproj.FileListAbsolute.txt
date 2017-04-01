@@ -1,0 +1,221 @@
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\ApplicationInsights.config
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\MvcBook.dll.config
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\MvcBook.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\MvcBook.pdb
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Antlr3.Runtime.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.SqlServer.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.DependencyCollector.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.Web.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.WindowsServer.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.ApplicationInsights.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Google.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Web.Infrastructure.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Newtonsoft.Json.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Owin.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Helpers.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Mvc.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Optimization.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Razor.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Deployment.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Razor.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\WebGrease.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.DependencyCollector.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.Web.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.WindowsServer.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.ApplicationInsights.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Helpers.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Mvc.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Optimization.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Razor.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Deployment.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Razor.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Antlr3.Runtime.pdb
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Newtonsoft.Json.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.SqlServer.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Google.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.pdb
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.Migrations.Initial.resources
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.csproj.GenerateResource.Cache
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\DataAnnotationsExtensions.ClientValidation.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\DataAnnotationsExtensions.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\WebActivator.dll
+E:\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.Migrations.DataAnnotations.resources
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\ApplicationInsights.config
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\MvcBook.dll.config
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\MvcBook.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\MvcBook.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Antlr3.Runtime.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\DataAnnotationsExtensions.ClientValidation.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\DataAnnotationsExtensions.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.Web.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Newtonsoft.Json.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Owin.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Helpers.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Mvc.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Optimization.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Razor.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\WebActivator.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\WebGrease.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.Web.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Helpers.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Mvc.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Optimization.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Razor.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Antlr3.Runtime.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Newtonsoft.Json.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.csprojResolveAssemblyReference.cache
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.Migrations.Initial.resources
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.Migrations.DataAnnotations.resources
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.csproj.GenerateResource.Cache
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Backup Flash Drive Files\March 2017 Backup\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\ApplicationInsights.config
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\MvcBook.dll.config
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\MvcBook.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\MvcBook.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Antlr3.Runtime.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\DataAnnotationsExtensions.ClientValidation.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\DataAnnotationsExtensions.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.Web.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Newtonsoft.Json.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Owin.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Helpers.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Mvc.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Optimization.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Razor.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\WebActivator.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\WebGrease.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.Web.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Helpers.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Mvc.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Optimization.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.Razor.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Antlr3.Runtime.pdb
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Newtonsoft.Json.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.csprojResolveAssemblyReference.cache
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.Migrations.Initial.resources
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.Migrations.DataAnnotations.resources
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.csproj.GenerateResource.Cache
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.dll
+C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2016\CECS 475\Lab 7 - Book App\MvcBook\MvcBook\obj\Debug\MvcBook.pdb
