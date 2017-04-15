@@ -2,7 +2,7 @@
 Project Overview:    
 Localhost Book App using MVC Design Pattern.   
      
-This project builds off of the Books Database Entity Data Model by taking that model and creating a an ASP.NET Core Model, View, Controller (MVC) web application out of it. This project allows users to create new book entries, update book entries, display all of the book information of the books inside the database, delete book entries, and search through the books database for book information via keywords and publishing year. I also included validation logic to the BookTitle model in order to ensure that the validation rules were enforced any time a user created or edited a Book.
+This project builds off of the Books Database Entity Data Model by taking that model and creating an ASP.NET Core Model, View, Controller (MVC) web application out of it. This project allows users to create new book entries, update book entries, display all of the book information of the books inside the database, delete book entries, and search through the books database for book information via keywords and publishing year. I also included validation logic to the BookTitle model in order to ensure that the validation rules were enforced any time a user created or edited a Book.
          
 MVC Background (courtesy of Microsoft MVC Tutorial):             
 The Model-View-Controller (MVC) design pattern separates an app into three main components: Model, View, and Controller. The MVC pattern helps you create apps that separate the different aspects of the app (input logic, business logic, and UI logic), while providing a loose coupling between these elements.    
