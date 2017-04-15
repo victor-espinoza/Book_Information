@@ -24,6 +24,9 @@ This project was created using Microsoft Visual Studio Community 2013 for Window
      
 Sample Output:     
 Below are some screenshots of different operations that can be executed while running the project:
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/25061051/5016f438-2162-11e7-8f75-a8bc39700e4b.jpg)
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/25061052/503e0532-2162-11e7-9514-f54874fd7c45.jpg)
-![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/25061053/5040fd5a-2162-11e7-9401-2ddbf2aa30e0.jpg)
+![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/25061051/5016f438-2162-11e7-8f75-a8bc39700e4b.jpg)     
+     
+![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/25061052/503e0532-2162-11e7-9514-f54874fd7c45.jpg)         
+     
+![ScreenShot](https://cloud.githubusercontent.com/assets/14812721/25061053/5040fd5a-2162-11e7-9401-2ddbf2aa30e0.jpg)       
+    
