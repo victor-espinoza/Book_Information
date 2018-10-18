@@ -17,4 +17,4 @@
 *.RTF	 diff=astextplain
 
 
-*.js linguist-detectable=false
+*.js linguist-language=C#
