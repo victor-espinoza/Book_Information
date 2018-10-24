@@ -1,4 +1,3 @@
-# Lab_6_Book_App
 Project Overview:   
 Localhost Book App using MVC Design Pattern.   
      
